@@ -19,7 +19,7 @@ function mostrarInfoUsuario(usuario: User | Admin): void {
 }
 
 // Creamos un usuario normal
-const usuario: User = {
+const usuarioNormal: User = {
     username: 'userDavid123',
     email: 'ddd@gmail.com'
 };
@@ -32,5 +32,5 @@ const usuarioAdmin: Admin = {
 };
 
 // Mostramos información del usuario normal y tipo Admin
-mostrarInfoUsuario(usuario);
+mostrarInfoUsuario(usuarioNormal);
 mostrarInfoUsuario(usuarioAdmin);
