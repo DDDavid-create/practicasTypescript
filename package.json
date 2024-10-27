@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node src/ejerciciosInterfaces/2.ts",
-    "dev": "nodemon --exec ts-node src/ejerciciosInterfaces/2.ts",
+    "start": "ts-node src/ejerciciosInterfaces/3.ts",
+    "dev": "nodemon --exec ts-node src/ejerciciosInterfaces/3.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
